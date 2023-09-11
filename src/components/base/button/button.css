@@ -1,0 +1,36 @@
+.q-button {
+    height: 36px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 0 16px;
+    min-width: 80px;
+    cursor: pointer;
+    color: white;
+}
+
+.q-button-primary {
+    background-color: rgb(85, 85, 202) !important;
+}
+
+.q-button-primary:hover {
+    background-color: rgb(105, 105, 205) !important;
+}
+
+
+.q-button-primary:focus {
+    background-color: rgb(145, 145, 223) !important;
+}
+
+
+.q-button-danger {
+    background-color: #ff4d4f !important;
+}
+
+.q-button-danger:hover {
+    background-color: #fd595c !important;
+}
+
+
+.q-button-danger:focus {
+    background-color: #ff4d4f !important;
+}
